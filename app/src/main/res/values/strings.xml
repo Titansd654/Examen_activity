@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Examen_activity</string>
+    <string name="strTitulo">Operaciones Aritmeticas</string>
+    <string name="strIngresaNom">Escribe tu nombre para ingresar</string>
+    <string name="strIngresar">Ingresar</string>
+    <string name="strCerrar">Cerrar</string>
+    <string name="strNombre">Nombre</string>
+    <string name="strNum1">Escribe el Num1</string>
+    <string name="strNum2">Escribe el Num2</string>
+    <string name="strCalcular">Calcular</string>
+    <string name="strLimpiar">Limpiar</string>
+    <string name="strRegresar">Regresar</string>
+    <string name="strResultado">Resultado</string>
+
+
+
+
+
+
+    <string-array name="strOperaciones">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+</resources>
